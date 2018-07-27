@@ -1,0 +1,29 @@
+body{
+    font: 1rem/2em "Century Gothic",Helvetica,Arial,"sans-serif";
+    color: #333;
+}
+.container{
+    margin: 10vh auto;
+    padding: 10vh 5vw;
+    max-width: 300px;
+    border: solid 1px #999;
+}
+form,p{
+    text-align: center;
+}
+.text{
+    border: none;
+    border-bottom: solid 1px #555;
+}
+p{ 
+    background: #999;
+    color: #fff; 
+}
+.botton{
+    border: solid 1px #ddd;
+    height: 2rem;
+    background: #ccc;
+    color: #fff;
+    margin-top: 3vh ;
+    width: 100%;
+}
